@@ -1,31 +1,47 @@
 # Tic-Tac-Toe
 
-Este proyecto es un juego de Tic-Tac-Toe (Tres en Raya) desarrollado con Angular. El objetivo es proporcionar una experiencia interactiva y divertida para dos jugadores, permitiéndoles competir en un tablero dinámico con un diseño moderno.
+**English** | [Español](README.es.md)
 
-## Características
+This project is a Tic-Tac-Toe game developed with Angular. It provides an interactive experience for two players competing on a dynamic board with a modern design.
 
-- **Juego para dos jugadores**: Alterna entre los jugadores "✖" y "⭕".
-- **Contador de victorias y empates**: Lleva un registro de las partidas ganadas por cada jugador y los empates.
-- **Interfaz moderna**: Diseño responsivo y atractivo utilizando Bootstrap.
-- **Modal de ganador**: Muestra un mensaje emergente cuando hay un ganador.
+## Features
 
-## Cómo jugar
+- **Two-player game**: Players alternate between "✖" and "⭕".
+- **Win and draw counter**: Keeps track of wins for each player and draws.
+- **Modern interface**: Responsive and attractive design using Bootstrap.
+- **Winner modal**: Displays a popup message when a player wins.
 
-1. Inicia el servidor de desarrollo con el comando `ng serve -o`.
-2. Abre tu navegador y navega a `http://localhost:4200/`.
-3. Haz clic en las celdas del tablero para alternar entre los turnos de los jugadores.
-4. El juego detectará automáticamente un ganador o un empate y actualizará los contadores.
+## How to play
 
-## Captura de pantalla
+1. Clone this repository:
+   ```bash
+   git clone https://github.com/Fernandolopez2171/tic-tac-toe.git
+   ```
+2. Navigate to the project directory:
+   ```bash
+   cd tic-tac-toe
+   ```
+3. Install the required dependencies:
+   ```bash
+   npm install
+   ```
+4. Start the development server:
+   ```bash
+   ng serve -o
+   ```
+5. Open your browser at `http://localhost:4200/`.
+6. Click the board cells to alternate between player turns.
+7. The game automatically detects wins and draws and updates the counters.
 
-![Captura del juego](/Project_Review/tic_tac_toe_1.png)
-![Captura del juego](/Project_Review/tic_tac_toe_2.png)
-![Captura del juego](/Project_Review/tic_tac_toe_3.png)
+## Screenshots
 
-## Tecnologías utilizadas
+![Game screenshot](/Project_Review/tic_tac_toe_1.png)
+![Game screenshot](/Project_Review/tic_tac_toe_2.png)
+![Game screenshot](/Project_Review/tic_tac_toe_3.png)
 
-- **Angular**: Framework principal para la construcción de la aplicación.
-- **Bootstrap**: Para el diseño y los estilos.
-- **TypeScript**: Lenguaje principal para la lógica del juego.
+## Technologies
 
+- **Angular**: Main framework for building the application.
+- **Bootstrap**: Used for layout and styling.
+- **TypeScript**: Main language for the game logic.
 
