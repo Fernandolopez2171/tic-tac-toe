@@ -45,3 +45,7 @@ This project is a Tic-Tac-Toe game developed with Angular. It provides an intera
 - **Bootstrap**: Used for layout and styling.
 - **TypeScript**: Main language for the game logic.
 
+## License
+
+This project is licensed under the MIT License — see the [LICENSE](../LICENSE) file for details.
+

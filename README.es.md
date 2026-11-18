@@ -44,3 +44,7 @@ Este proyecto es un juego de Tic-Tac-Toe (Tres en Raya) desarrollado con Angular
 - **Angular**: Framework principal para la construcción de la aplicación.
 - **Bootstrap**: Para el diseño y los estilos.
 - **TypeScript**: Lenguaje principal para la lógica del juego.
+
+## Licencia
+
+Este proyecto está licenciado bajo la Licencia MIT — consulta el archivo [LICENSE](../LICENSE) para más detalles.
